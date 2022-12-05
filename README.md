@@ -1,4 +1,5 @@
 {
+
 	"BIO": {
 		"Experty": "Full Stack Data Expert 🔭",
 		"Nick": "Data Yoda 🤔",
@@ -7,4 +8,5 @@
 		"Highlight": "Certified Professional",
 		"Luck" : "Young Entrepreneur 😄"  
 	}
+	
 }
