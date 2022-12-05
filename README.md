@@ -5,7 +5,7 @@
 		"Nick": "Data Yoda 🤔",
 		"Industry Batch": ["Big Data Engineer", "Data Scientist", "Business Intelligence", "Programmer" ⚡],
 		"Productive Time" : "All Night & Half Day", 
-		"Highlights": ["Certified Professional", "Team Lead", "Project Delievery Expertise", "Sportsman with sportsmanship"],
+		"Highlights": ["Certified Professional", "Team Lead", "Project Delivery Expertise", "Sportsmanship in work"],
 		"Luck" : "Young Entrepreneur 😄"
 	}
 	
