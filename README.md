@@ -1,6 +1,6 @@
 {
 
-	"BIO": {
+	"Bio": {
 		"Experty": "Full Stack Data Expert 🔭",
 		"Nick": "Data Yoda 🤔",
 		"Industry Batch": ["Big Data Engineer", "Data Scientist", "Business Intelligence", "Programmer" ⚡],
