@@ -1,16 +1,12 @@
-### Hi there 👋
+{
 
-<!--
-**awaisajaz1/awaisajaz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+	"BIO": {
+		"Experty": "Full Stack Data Expert 🔭",
+		"Nick": "Data Yoda 🤔",
+		"Industry Batch": ["Big Data Engineer", "Data Scientist", "Business Intelligence", "Programmer" ⚡],
+		"Productive Time" : "All Night", 
+		"Highlight": "Certified Professional",
+		"Luck" : "Young Entrepreneur 😄"  
+	}
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+}
