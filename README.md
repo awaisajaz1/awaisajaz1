@@ -7,7 +7,7 @@
 		"Productive_Time" : "All Night & Half Day", 
 		"Highlights": ["Certified Professional", "Team Lead", "Project Delivery Expertise", "Sportsmanship in work"],
 		"Development_Approach": ["Scalable", "TDD"],
-		"Luck" : ["Young Entrepreneur 😄", "Late Marriage"]
+		"Luck" : ["Young Entrepreneur", "Late Marriage"]
 	}
 	
 }
