@@ -19,7 +19,7 @@
 
 - MDM, RDM, Data Engineering, Business Intelligence, Data Science, Custom Processing Libraries
 - Kafka Stream Real Time Data Analytics Pipeline
-- Custom Data Engineering Pipeline using python for ERPs [EBS, SAP Business One, Dynamics 365, Custom]
+- Custom Data Engineering Pipelines using python for ERPs [EBS, SAP Business One, Dynamics 365, Custom]
 - Apache Spark Data Pipeline for Cloud Kitchen Data Analytics
 - AWS Glue, AWS Lambda, AWS Redshift, MongoDB, dbt, Apache Airflow, AWS S3, Azure ADLS, Azure Data Factory, Informatica, Oracle Data Integrator, Talend Open Studio , Pentaho 
 
