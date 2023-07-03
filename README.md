@@ -15,5 +15,13 @@
   	}
 
 
+## 🔭 I'm currently working on
+
+- MDM, RDM, Data Engineering, Business Intelligence, Data Science, Custom Processing Libraries
+- Kafka Stream Real Time Data Analytics Pipeline
+- Custom Data Engineering Pipeline using python for ERPs [EBS, SAP Business One, Dynamics 365, Custom]
+- Apache Spark Data Pipeline for Cloud Kitchen Data Analytics
+- AWS Glue, AWS Lambda, AWS Redshift, MongoDB, dbt, Apache Airflow, AWS S3, Azure ADLS, Azure Data Factory, Informatica, Oracle Data Integrator, Talend Open Studio , Pentaho 
+
 [![Owais’s github stats](https://github-readme-stats.vercel.app/api?username=awaisajaz1)](https://github.com/awaisajaz1)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awaisajaz1&layout=compact)](https://github.com/awaisajaz1)
