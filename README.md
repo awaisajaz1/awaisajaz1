@@ -10,3 +10,9 @@
 		"Luck" : ["Young Entrepreneur", "Late Marriage"]
 		}
   	}
+
+<p>
+  <a href="https://www.linkedin.com/in/muhammad-owais-ajaz-63015094/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+</p>
