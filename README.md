@@ -1,6 +1,6 @@
-{
- 	
-  	"Bio": {
+	
+	{
+ 	"Bio": {
 		"Experty": "Full Stack Data Expert 🔭",
 		"Nick": "Data Yoda 🤔",
 		"Industry_Batches": ["Big Data Engineer", "Data Scientist", "Business Intelligence", "Programmer" ⚡],
@@ -9,4 +9,4 @@
 		"Development_Approach": ["Scalable", "TDD"],
 		"Luck" : ["Young Entrepreneur", "Late Marriage"]
 		}
-}
+  	}
