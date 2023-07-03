@@ -1,5 +1,4 @@
 {
-
 	"Bio": {
 		"Experty": "Full Stack Data Expert 🔭",
 		"Nick": "Data Yoda 🤔",
@@ -9,5 +8,9 @@
 		"Development_Approach": ["Scalable", "TDD"],
 		"Luck" : ["Young Entrepreneur", "Late Marriage"]
 	}
-	
 }
+
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/USERNAME"
