@@ -23,5 +23,4 @@
 - Apache Spark Data Pipeline for Cloud Kitchen Data Analytics
 - AWS Glue, AWS Lambda, AWS Redshift, MongoDB, dbt, Apache Airflow, AWS S3, Azure ADLS, Azure Data Factory, Informatica, Oracle Data Integrator, Talend Open Studio , Pentaho, ∞
 
-[![Owais’s github stats](https://github-readme-stats.vercel.app/api?username=awaisajaz1)](https://github.com/awaisajaz1)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awaisajaz1&layout=compact)](https://github.com/awaisajaz1)
