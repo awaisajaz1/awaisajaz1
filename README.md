@@ -4,7 +4,9 @@
 
 ### 🎓 Certifications
 
-- [Certified Data Engineer – View Certificate](https://www.example.com/your-certification-link)
+- [Microsoft Certified: Fabric Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/MuhammadOwaisAjaz-6332/45513AFEABCE567F?sharingId=F64A95A8A76F686B)
+- [Microsoft Certified: Fabric Analytics Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/MuhammadOwaisAjaz-6332/6BD5E2A284225DD6?sharingId=F64A95A8A76F686B)
+- [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-us/MuhammadOwaisAjaz-6332/5D0517F5976272E2?sharingId=F64A95A8A76F686B)
 
 
 
