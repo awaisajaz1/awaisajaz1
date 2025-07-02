@@ -11,17 +11,38 @@
 - [Oracle Cloud Platform Enterprise Analytics](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1C55510BD924DB20428CDABF8345779272617D8E5197970E0B4A94103482FA3A)
 
 
-	{
- 	"Bio": {
-		"Experty": "Full Stack Data Expert 🔭",
-		"Nick": "Data Yoda 🤔",
-		"Industry_Batches": ["Big Data Engineer", "Data Scientist", "Business Intelligence", "Programmer" ⚡],
-		"Productive_Time" : "All Night & Half Day", 
-		"Highlights": ["Certified Professional", "Department Manager", "Project Delivery Expertise", "Sportsmanship", "Mentor"],
-		"Development_Approach": ["Scalable", "TDD"],
-		"Luck" : ["Young Entrepreneur", "Late Marriage"]
-		}
-  	}
+## 📊 Professional Profile
+
+```json
+{
+  "bio": {
+    "expertise": "Full Stack Data Expert 🔭",
+    "nickname": "Data Yoda 🤔",
+    "industry_roles": [
+      "Big Data Engineer",
+      "Data Scientist", 
+      "Business Intelligence",
+      "Programmer ⚡"
+    ],
+    "productive_hours": "All Night & Half Day",
+    "highlights": [
+      "Certified Professional",
+      "Department Manager", 
+      "Project Delivery Expertise",
+      "Sportsmanship",
+      "Mentor"
+    ],
+    "development_approach": [
+      "Scalable",
+      "TDD"
+    ],
+    "personal": [
+      "Young Entrepreneur",
+      "Late Marriage"
+    ]
+  }
+}
+```
 
 
 ## 🔭 I'm currently working on
