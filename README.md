@@ -45,12 +45,21 @@
 ```
 
 
-## 🔭 I'm currently working on
+## 🔭 I'm Currently Working On
 
-- MDM, RDM, Data Engineering, Business Intelligence, Data Science, Custom Processing Libraries
-- Kafka Stream Real Time Data Analytics Pipeline
-- Custom Data Engineering Pipelines using python for ERPs [EBS, SAP Business One, Dynamics 365, Custom]
-- Apache Spark Data Pipeline for Cloud Kitchen Data Analytics
-- AWS Glue, AWS Lambda, AWS Redshift, MongoDB, dbt, Apache Airflow, AWS S3, Azure ADLS, Azure Data Factory, Informatica, Oracle Data Integrator, Talend Open Studio , Pentaho, ∞
+- **Modern Data Platforms**: Delta Lake, Lakehouse Architecture, Snowflake, Microsoft Fabric, Azure Synapse Analytics, OneLake, KQL (Kusto Query Language)  
+- **Data Engineering & Analytics**:  
+  - Master Data Management (MDM), Reference Data Management (RDM)  
+  - Business Intelligence, Data Science, Custom Python Processing Libraries  
+  - Real-time data ingestion and processing with Kafka Streams and Apache Spark  
+  - Advanced Apache Spark development for batch and streaming pipelines (PySpark, Spark SQL, Delta Lake)  
+- **ERP Data Integration**: Custom Python-based data pipelines for Oracle EBS, SAP Business One, Microsoft Dynamics 365, and custom ERPs  
+- **Cloud-Native ETL & Analytics**: Apache Spark-based pipelines for cloud kitchen analytics and real-time business reporting  
+- **Cloud & Big Data Stack**:  
+  - **AWS**: Glue, Lambda, Redshift, S3  
+  - **Azure**: Data Factory, ADLS, Microsoft Fabric, Azure Synapse Analytics  
+  - **Other Tools**: MongoDB, dbt, Apache Airflow, Informatica, Oracle Data Integrator (ODI), Talend Open Studio, Pentaho  
+- **∞ Infinite Integration**: Continuously building scalable, modular, metadata-driven pipelines for hybrid cloud ecosystems
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awaisajaz1&layout=compact)](https://github.com/awaisajaz1)
