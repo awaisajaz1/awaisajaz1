@@ -22,7 +22,8 @@
       "🛠️ Big Data Engineer",
       "🧪 Data Scientist",
       "📊 Business Intelligence",
-      "⚡ Programmer"
+      "⚡ Programmer",
+      "🖥️ Backend Developer"
     ],
     "productive_hours": "🌙 All Night & ☀️ Half Day",
     "development_approach": [
