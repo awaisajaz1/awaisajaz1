@@ -47,7 +47,7 @@
 
 ## 🔭 I'm Currently Working On
 
-- **Modern Data Platforms**: Delta Lake, Lakehouse Architecture, Snowflake, Microsoft Fabric, Azure Synapse Analytics, OneLake, KQL (Kusto Query Language)  
+- **Modern Data Platforms**: Delta Lake, Lakehouse Architecture, Databricks, Snowflake, Microsoft Fabric, Azure Synapse Analytics, OneLake, KQL (Kusto Query Language)  
 - **Data Engineering & Analytics**:  
   - Master Data Management (MDM), Reference Data Management (RDM)  
   - Business Intelligence, Data Science, Custom Python Processing Libraries  
