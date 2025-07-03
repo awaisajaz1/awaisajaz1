@@ -16,29 +16,33 @@
 ```json
 {
   "bio": {
-    "expertise": "Full Stack Data Expert 🔭",
-    "nickname": "Data Yoda 🤔",
-    "industry_roles": [
-      "Big Data Engineer",
-      "Data Scientist", 
-      "Business Intelligence",
-      "Programmer ⚡"
+    "title": "Full Stack Data Expert 🔭",
+    "alias": "Data Yoda 🤔",
+    "roles": [
+      "🛠️ Big Data Engineer",
+      "🧪 Data Scientist",
+      "📊 Business Intelligence",
+      "⚡ Programmer"
     ],
-    "productive_hours": "All Night & Half Day",
-    "highlights": [
-      "Certified Professional",
-      "Department Manager", 
-      "Project Delivery Expertise",
-      "Sportsmanship",
-      "Mentor"
-    ],
+    "productive_hours": "🌙 All Night & ☀️ Half Day",
     "development_approach": [
-      "Scalable",
-      "TDD"
+      "📈 Scalable",
+      "🧪 Test-Driven Development (TDD)"
     ],
-    "personal": [
-      "Young Entrepreneur",
-      "Late Marriage"
+    "mindset": [
+      "🚀 Scalable",
+      "⚙️ Configurable"
+    ],
+    "highlights": [
+      "🎓 Certified Professional",
+      "🏢 Department Manager",
+      "📦 Project Delivery Expertise",
+      "🏆 Sportsmanship",
+      "🧑‍🏫 Mentor & Team Coach"
+    ],
+    "personal_traits": [
+      "🚀 Young Entrepreneur",
+      "💍 Late Marriage"
     ]
   }
 }
