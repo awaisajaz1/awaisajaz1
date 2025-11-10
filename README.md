@@ -21,9 +21,9 @@
     "roles": [
       "🛠️ Big Data Engineer",
       "🧪 Data Scientist",
-      "📊 Business Intelligence",
+      "📊 Business Intelligence Engineer",
       "⚡ Programmer",
-      "🖥️ Backend Developer"
+      "🖥️ Partial Backend Developer"
     ],
     "productive_hours": "🌙 All Night & ☀️ Half Day",
     "development_approach": [
