@@ -65,8 +65,3 @@
   - **Azure**: Data Factory, ADLS, Microsoft Fabric, Azure Synapse Analytics  
   - **Other Tools**: MongoDB, dbt, Apache Airflow, Informatica, Oracle Data Integrator (ODI), Talend Open Studio, Pentaho  
 - **∞ Infinite Integration**: Continuously building scalable, modular, metadata-driven pipelines for hybrid cloud ecosystems
-
-
-## My Top Programming Languages
-
-![Top language](https://img.shields.io/github/languages/top/awaisajaz1/awaisajaz1)
