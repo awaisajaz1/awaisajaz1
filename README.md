@@ -69,4 +69,4 @@
 
 ## My Top Programming Languages
 
-[![Top Langs](https://github-readme-stats-awaisajaz1.vercel.app/api/top-langs/?username=awaisajaz1&layout=compact)](https://github.com/awaisajaz1)
+![Top language](https://img.shields.io/github/languages/top/awaisajaz1/awaisajaz1)
