@@ -76,8 +76,6 @@ Building next-generation data platforms powered by GenAI to accelerate insights,
 
 ## 🔭 What I Do
 
-## 🔭 What I Do
-
 ### Modern Data Platforms
 Design and build scalable lakehouse architectures using Delta Lake, Databricks, Snowflake, Microsoft Fabric, Azure Synapse Analytics, OneLake, and KQL (Kusto Query Language).
 
