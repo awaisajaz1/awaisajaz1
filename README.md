@@ -28,7 +28,7 @@ Building next-generation data platforms powered by GenAI to accelerate insights,
     "title": "AI-Augmented Full Stack Data Expert 🔭",
     "alias": "Data Yoda 🤔",
     "roles": [
-      "🛠️ Senior Data Engineer (Big Data)",
+      "🛠️ MAnaging & Lead Data Engineer",
       "🧪 Applied Data Scientist",
       "📊 BI & Analytics Engineer",
       "⚡ Software Engineer",
