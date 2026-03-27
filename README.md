@@ -4,6 +4,9 @@
 ![Snowflake](https://img.shields.io/badge/Snowflake-3083DC?style=flat&logo=snowflake&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon&logoColor=white)
 ![GenAI](https://img.shields.io/badge/GenAI-4F46E5?style=flat)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=flat)
 
 Building next-generation data platforms powered by GenAI to accelerate insights, automation, and business transformation.
 
