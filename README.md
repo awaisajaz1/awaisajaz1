@@ -11,7 +11,7 @@ Building next-generation data platforms powered by GenAI to accelerate insights,
 <a href="https://www.linkedin.com/in/muhammad-owais-ajaz-63015094/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40owaisajaz)](https://twitter.com/OwaisButt90)
 
-### 🎓 Certifications
+### 🎓 Certifications & Credentials
 
 - [Microsoft Certified: Fabric Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/MuhammadOwaisAjaz-6332/45513AFEABCE567F?sharingId=F64A95A8A76F686B)
 - [Microsoft Certified: Fabric Analytics Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/MuhammadOwaisAjaz-6332/6BD5E2A284225DD6?sharingId=F64A95A8A76F686B)
@@ -25,34 +25,43 @@ Building next-generation data platforms powered by GenAI to accelerate insights,
 ```json
 {
   "bio": {
-    "title": "Full Stack Data Expert 🔭",
+    "title": "AI-Augmented Full Stack Data Expert 🔭",
     "alias": "Data Yoda 🤔",
     "roles": [
-      "🛠️ Big Data Engineer",
-      "🧪 Data Scientist",
-      "📊 Business Intelligence Engineer",
-      "⚡ Programmer",
-      "🖥️ Partial Backend Developer"
+      "🛠️ Senior Data Engineer (Big Data)",
+      "🧪 Applied Data Scientist",
+      "📊 BI & Analytics Engineer",
+      "⚡ Software Engineer",
+      "🖥️ Backend Developer (Data-Focused)"
     ],
-    "productive_hours": "🌙 All Night & ☀️ Half Day",
+    "productive_hours": "🌙 Deep Work Nights | ☀️ Strategic Daytime",
     "development_approach": [
-      "📈 Scalable",
-      "🧪 Test-Driven Development (TDD)"
+      "📈 Scalable Architecture First",
+      "🧪 Test-Driven & Quality-Focused",
+      "⚙️ Automation & Reusability"
     ],
     "mindset": [
-      "🚀 Scalable",
-      "⚙️ Configurable"
+      "🚀 Build for Scale",
+      "⚙️ Design for Flexibility",
+      "🤖 AI-First Thinking"
     ],
     "highlights": [
-      "🎓 Certified Professional",
-      "🏢 Department Manager",
-      "📦 Project Delivery Expertise",
-      "🏆 Sportsmanship",
-      "🧑‍🏫 Mentor & Team Coach"
+      "🎓 Certified Data Professional",
+      "🏢 Engineering Leadership Experience",
+      "📦 End-to-End Project Delivery",
+      "🏆 Strong Ownership & Accountability",
+      "🧑‍🏫 Mentor, Coach & Team Builder"
+    ],
+    "specialization": [
+      "⚡ Distributed Data Processing (Spark, etc.)",
+      "☁️ Modern Data Platforms (Cloud & Lakehouse)",
+      "🤖 GenAI-Driven Data Workflows",
+      "📊 Data Modeling & Warehousing"
     ],
     "personal_traits": [
-      "🚀 Young Entrepreneur",
-      "💍 Late Marriage"
+      "🚀 Entrepreneurial Mindset",
+      "🧠 Problem Solver",
+      "🎯 Outcome-Driven"
     ]
   }
 }
