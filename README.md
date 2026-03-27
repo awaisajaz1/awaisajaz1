@@ -1,3 +1,10 @@
+![Databricks](https://img.shields.io/badge/Databricks-EF3E2E?style=flat&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-3083DC?style=flat&logo=snowflake&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon&logoColor=white)
+![GenAI](https://img.shields.io/badge/GenAI-4F46E5?style=flat)
+
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/muhammad-owais-ajaz-63015094/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40owaisajaz)](https://twitter.com/OwaisButt90)
