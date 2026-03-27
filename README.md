@@ -76,16 +76,29 @@ Building next-generation data platforms powered by GenAI to accelerate insights,
 
 ## 🔭 What I Do
 
-- **Modern Data Platforms**: Delta Lake, Lakehouse Architecture, Databricks, Snowflake, Microsoft Fabric, Azure Synapse Analytics, OneLake, KQL (Kusto Query Language)  
-- **Data Engineering & Analytics**:  
-  - Master Data Management (MDM), Reference Data Management (RDM)  
-  - Business Intelligence, Data Science, Custom Python Processing Libraries  
-  - Real-time data ingestion and processing with Kafka Streams and Apache Spark  
-  - Advanced Apache Spark development for batch and streaming pipelines (PySpark, Spark SQL, Delta Lake)  
-- **ERP Data Integration**: Custom Python-based data pipelines for Oracle EBS, SAP Business One, Microsoft Dynamics 365, and custom ERPs  
-- **Cloud-Native ETL & Analytics**: Apache Spark-based pipelines for cloud kitchen analytics and real-time business reporting  
-- **Cloud & Big Data Stack**:  
-  - **AWS**: Glue, Lambda, Redshift, S3  
-  - **Azure**: Data Factory, ADLS, Microsoft Fabric, Azure Synapse Analytics  
-  - **Other Tools**: MongoDB, dbt, Apache Airflow, Informatica, Oracle Data Integrator (ODI), Talend Open Studio, Pentaho  
-- **∞ Infinite Integration**: Continuously building scalable, modular, metadata-driven pipelines for hybrid cloud ecosystems
+## 🔭 What I Do
+
+### Modern Data Platforms
+Design and build scalable lakehouse architectures using Delta Lake, Databricks, Snowflake, Microsoft Fabric, Azure Synapse Analytics, OneLake, and KQL (Kusto Query Language).
+
+### Data Engineering & Advanced Analytics
+Develop robust batch and real-time pipelines using Apache Spark (PySpark, Spark SQL) and Kafka.
+Expertise in Master Data Management (MDM), Reference Data Management (RDM), Business Intelligence, and custom Python processing libraries.
+
+### Real-Time & Streaming Systems
+Implement low-latency ingestion and processing using Kafka Streams and Spark Structured Streaming for near real-time insights.
+
+### ERP Data Integration
+Build custom Python-based data pipelines for Oracle EBS, SAP Business One, Microsoft Dynamics 365, and custom ERP systems.
+
+### Cloud-Native ETL & Analytics
+Architect cloud-native data pipelines for use cases like cloud kitchen analytics, operational reporting, and real-time dashboards.
+
+### Cloud & Big Data Stack
+- AWS: Glue, Lambda, Redshift, S3
+- Azure: Data Factory, ADLS, Microsoft Fabric, Synapse Analytics
+- Data Stack: MongoDB, dbt, Apache Airflow
+- ETL Tools: Informatica, Oracle Data Integrator (ODI), Talend Open Studio, Pentaho
+
+### ∞ Infinite Integration Mindset
+Continuously building modular, metadata-driven, and scalable pipelines for hybrid and multi-cloud ecosystems.
