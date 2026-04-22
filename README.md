@@ -23,6 +23,7 @@ Building next-generation data platforms powered by GenAI to accelerate insights,
 - [Microsoft Certified: Fabric Analytics Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/MuhammadOwaisAjaz-6332/6BD5E2A284225DD6?sharingId=F64A95A8A76F686B)
 - [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-us/MuhammadOwaisAjaz-6332/5D0517F5976272E2?sharingId=F64A95A8A76F686B)
 - [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/9b9919f8-d539-45a3-889a-2b7417539852#acc.ON6Ir1i7)
+- [micro1 Certified Data Engineer](https://micro1-portal-data.s3.amazonaws.com/engineer-certificates/1776852604-d8cfe65a-4271-4f4c-a908-58b704879a84.jpg)
 - [Oracle Cloud Platform Enterprise Analytics](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1C55510BD924DB20428CDABF8345779272617D8E5197970E0B4A94103482FA3A)
 
 
