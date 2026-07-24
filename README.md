@@ -10,7 +10,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-6B3FA0?style=flat&logo=microsoft&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=white)
+![Apache Superset](https://img.shields.io/badge/Apache_Superset-20A6C9?style=flat&logo=apache&logoColor=white)
 
 Building next-generation data platforms powered by GenAI to accelerate insights, automation, and business transformation.
 
