@@ -10,6 +10,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
 
 Building next-generation data platforms powered by GenAI to accelerate insights, automation, and business transformation.
 
