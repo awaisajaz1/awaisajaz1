@@ -15,6 +15,11 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=white)
 ![Apache Superset](https://img.shields.io/badge/Apache_Superset-20A6C9?style=flat&logo=apache&logoColor=white)
+![Azure Synapse Analytics](https://img.shields.io/badge/Azure_Synapse-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure Data Lake Storage Gen2](https://img.shields.io/badge/ADLS_Gen2-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=flat&logo=amazonredshift&logoColor=white)
+![Medallion Architecture](https://img.shields.io/badge/Medallion_Architecture-Bronze%20%7C%20Silver%20%7C%20Gold-CD7F32?style=flat)
 
 Building next-generation data platforms powered by GenAI to accelerate insights, automation, and business transformation.
 
