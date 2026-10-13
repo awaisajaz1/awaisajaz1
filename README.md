@@ -29,6 +29,7 @@ Building next-generation data platforms powered by GenAI to accelerate insights,
 
 ### 🎓 Certifications & Credentials
 
+- [Claude Certified Developer - Foundations](https://www.credly.com/badges/4b0fe6e2-d26b-49d4-ae0e-e17b96699bd5)
 - [Microsoft Certified: Fabric Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/MuhammadOwaisAjaz-6332/45513AFEABCE567F?sharingId=F64A95A8A76F686B)
 - [Microsoft Certified: Fabric Analytics Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/MuhammadOwaisAjaz-6332/6BD5E2A284225DD6?sharingId=F64A95A8A76F686B)
 - [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-us/MuhammadOwaisAjaz-6332/5D0517F5976272E2?sharingId=F64A95A8A76F686B)
